@@ -1,0 +1,26 @@
+{
+  "name": "gify",
+  "version": "0.0.1",
+  "description": "get gif meta info",
+  "main": "gify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mantou132/gify.git"
+  },
+  "keywords": [
+    "gif",
+    "frame"
+  ],
+  "author": "mt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mantou132/gify/issues"
+  },
+  "homepage": "https://github.com/mantou132/gify#readme",
+  "dependencies": {
+    "jdataview": "^2.5.0"
+  }
+}
